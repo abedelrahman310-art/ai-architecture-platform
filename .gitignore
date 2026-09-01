@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+*.egg-info/
+
+# Django
+*.log
+db.sqlite3
+media/
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+
+# Environment
+.env
+
+# Docker
+docker-compose.override.yml
+
+# OS
+Thumbs.db
+.DS_Store
